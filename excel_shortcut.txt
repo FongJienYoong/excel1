@@ -1,0 +1,3 @@
+//auto align cell rows and column  //make sure there is no text warp for it to works properly
+alt + H O A and alt + H O I
+
