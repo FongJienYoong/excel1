@@ -1,3 +1,6 @@
+//add borders 
+alt + H B A
+
 //auto align cell rows and column  //make sure there is no text warp for it to works properly
 alt + H O A and then alt + H O I
 
