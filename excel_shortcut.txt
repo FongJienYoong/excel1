@@ -1,3 +1,5 @@
 //auto align cell rows and column  //make sure there is no text warp for it to works properly
-alt + H O A and alt + H O I
+alt + H O A and then alt + H O I
 
+//remove the formula and leave the value only
+ctrl c and then alt + E S V
